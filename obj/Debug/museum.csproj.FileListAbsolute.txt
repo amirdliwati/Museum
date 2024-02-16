@@ -1,0 +1,25 @@
+F:\museum\museum\obj\Debug\ResolveAssemblyReference.cache
+F:\museum\museum\obj\Debug\museum.Properties.Resources.resources
+F:\museum\museum\obj\Debug\museum.csproj.GenerateResource.Cache
+F:\museum\museum\bin\Debug\museum.exe
+F:\museum\museum\bin\Debug\museum.pdb
+F:\museum\museum\obj\Debug\museum.Form9.resources
+F:\museum\museum\obj\Debug\museum.exe
+F:\museum\museum\obj\Debug\museum.pdb
+F:\museum\museum\obj\Debug\museum.Form1.resources
+F:\museum\museum\obj\Debug\museum.Form4.resources
+F:\museum\museum\obj\Debug\museum.Form10.resources
+F:\museum\museum\bin\Debug\museum.mdf
+F:\museum\museum\bin\Debug\museum_log.ldf
+F:\museum\museum\bin\Debug\museum.exe.config
+F:\museum\museum\obj\Debug\museum.Form2.resources
+F:\museum\museum\bin\Debug\JbsaPrintDataGridView.dll
+F:\museum\museum\obj\Debug\museum.Form12.resources
+F:\museum\museum\obj\Debug\museum.Form11.resources
+F:\museum\museum\obj\Debug\museum.Form8.resources
+F:\museum\museum\obj\Debug\museum.Form5.resources
+F:\museum\museum\obj\Debug\museum.Form3.resources
+F:\museum\museum\obj\Debug\museum.Form6.resources
+I:\My Flash\Projects\museum\museum\bin\Debug\museum.exe.config
+I:\My Flash\Projects\museum\museum\obj\Debug\museum.exe
+I:\My Flash\Projects\museum\museum\obj\Debug\museum.pdb
